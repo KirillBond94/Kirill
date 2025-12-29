@@ -1,15 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-29T04:32:33.485616+00:00">
+<yml_catalog date="2025-12-29T10:30:48.858003+00:00">
   <shop>
     <offers>
-      <offer id="9129531">
-        <name>Сковорода литая Magma, d=32 см, h=5 см, с двумя ушками, индукция, чугун</name>
-        <oshiptag color="yellow">OZONM</oshiptag>
+      <offer id="9592090">
+        <name>Блюдо новогоднее «Зимний лес», 20×17.5×3 см, ручная работа</name>
+        <oshiptag color="yellow">WB</oshiptag>
         <oshiptag color="blue">29.12.25</oshiptag>
-        <barcode>2900091295317</barcode>
-        <barcode>2920091295315</barcode>
-        <barcode>4504705002602</barcode>
-        <barcode>6900091295313</barcode>
+        <barcode>2900095920901</barcode>
+        <barcode>6900095920907</barcode>
+      </offer>
+      <offer id="9592068">
+        <name>Блюдо новогоднее «Тепла и уюта», 21×21×3 см, ручная работа</name>
+        <oshiptag color="yellow">WB</oshiptag>
+        <oshiptag color="blue">29.12.25</oshiptag>
+        <barcode>2900095920680</barcode>
+        <barcode>6900095920686</barcode>
+      </offer>
+      <offer id="9919742">
+        <name>Набор посуды Magistro La palla, 7 предметов: тарелка d=23 см, 2 тарелки d=23.2 см, 2 тарелки 1000 мл, 2 салатника 1000 мл, фарфор, чёрный</name>
+        <oshiptag color="yellow">WB</oshiptag>
+        <oshiptag color="blue">29.12.25</oshiptag>
+        <barcode>2039406848792</barcode>
+        <barcode>2900099197422</barcode>
+        <barcode>6900099197428</barcode>
+      </offer>
+      <offer id="10416081">
+        <name>Тарелка новогодняя плоская «Зимний уют», d=19 см</name>
+        <oshiptag color="yellow">WB</oshiptag>
+        <oshiptag color="blue">29.12.25</oshiptag>
+        <barcode>2900104160816</barcode>
+        <barcode>6900104160812</barcode>
       </offer>
     </offers>
   </shop>
